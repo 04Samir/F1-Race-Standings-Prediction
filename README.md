@@ -1,7 +1,7 @@
 > ## ⚠️ NOTICE: Repository Status
 > This Project is Outdated!
 > 
-> ### Please Visit the Updated Version at [github.com/04Samir/F1-Forecasting](https://github.com/04Samir/F1-Forecasting).
+> ### Please Visit the Updated Version at [github.com/04Samir/F1-Race-Forecasting](https://github.com/04Samir/F1-Race-Forecasting).
 
 ---
 
